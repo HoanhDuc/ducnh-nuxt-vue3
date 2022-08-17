@@ -23,7 +23,7 @@
           <v-icon :color="colorByRouterFavorite" class="mb-2">
             mdi-heart
           </v-icon>
-          <span :style="`color:${colorByRouterFavorite}`">Favorite</span>
+          <span :style="`color:${colorByRouterFavorite}`">Favorite </span>
         </nuxt-link>
       </div>
     </div>
