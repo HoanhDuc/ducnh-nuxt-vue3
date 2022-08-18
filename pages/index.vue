@@ -1,13 +1,8 @@
 <template>
-<div>
-  918239
-</div>
+  <div>None</div>
 </template>
 <script>
-export default { 
-  layout: 'search'
-}
+export default {};
 </script>
-<style lang="scss" scoped>
 
-</style>
+<style></style>

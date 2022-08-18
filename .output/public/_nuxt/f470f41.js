@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{427:function(n,t,e){"use strict";e.r(t);var c={layout:"search"},l=e(76),component=Object(l.a)(c,(function(){return(0,this._self._c)("div",[this._v("Search")])}),[],!1,null,null,null);t.default=component.exports}}]);
